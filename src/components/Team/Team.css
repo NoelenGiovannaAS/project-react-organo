@@ -1,0 +1,22 @@
+.team {
+    text-align: center;
+    padding: 32px;
+}
+
+.team h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+    display: inline-block;
+    padding-bottom: 8px;
+    font-size: 32px;
+    border-bottom: 4px solid;
+}
+
+.team .employers {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 32px;
+
+
+}
